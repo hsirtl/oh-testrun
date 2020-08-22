@@ -8,7 +8,7 @@ env:
   staging_url: https://openhack3gt31v73poi-staging.azurewebsites.net
   prod_url: https://openhack3gt31v73poi.azurewebsites.net
   resource_group: openhack3gt31v73rg
-  webapp_name: openhackxv61mxh2poi
+  webapp_name: openhack3gt31v73poi
   build_name: POI
 
 on:
