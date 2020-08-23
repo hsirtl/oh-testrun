@@ -2,7 +2,7 @@ name: POI CICD
 
 env:
   poi_path: apis/poi/**
-  registry: openhack3gt31v73acr
+  registry: openhack3gt31v73acr.azurecr.io
   repository: devopsoh/api-poi
   docker_path: apis/poi/web
   staging_url: https://openhack3gt31v73poi-staging.azurewebsites.net
